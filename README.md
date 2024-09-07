@@ -9,10 +9,18 @@
 ## Where to start
 
 “You never change things by fighting the existing reality. To change something, build a new model that makes the old model obsolete.”
+
 – Buckminster Fuller
 
+## Contents
+```
+What is money
+Properties of good money
+Trust
+The gold standard
 
 
+```
 ---
 
 ## Code blocks are no problem
