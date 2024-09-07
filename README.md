@@ -1,18 +1,17 @@
 # bitcoin
-class: center, middle
 
-# Simple example presentation
+# Getting started with Bitcoin
 
-## Author
+## HarryHashrate
 
 ---
 
-## Another slide
+## Where to start
 
-Try **F** and **P** keys.
+“You never change things by fighting the existing reality. To change something, build a new model that makes the old model obsolete.”
+– Buckminster Fuller
 
-- A bullet point
-- Another convincing argument
+
 
 ---
 
